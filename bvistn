@@ -94,4 +94,33 @@ sudo systemctl enable httpd
 
 sudo systemctl is-enabled httpd
 
-sudo nano /var/www/html/index.html
+sudo nano /var/www/html/index.htm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<body>
+<h1> Hello, World! </h1>
+<p> How are you doing? </p>
+</body>
+</html>l
