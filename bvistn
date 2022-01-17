@@ -123,4 +123,114 @@ sudo nano /var/www/html/index.htm
 <h1> Hello, World! </h1>
 <p> How are you doing? </p>
 </body>
-</html>l
+
+
+
+
+
+
+
+
+
+
+
+
+Application LB 
+
+sudo yum update -y
+
+yum install httpd
+
+sudo systemctl enable httpd
+
+sudo systemctl is-enabled httpd
+
+sudo nano /var/www/html/index.html
+
+<!DOCTYPE html>
+<html>
+<body>
+<h1> Hello, World! </h1>
+<p> How are you doing? </p>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Application LB 
+
+sudo yum update -y
+
+yum install httpd
+
+sudo systemctl enable httpd
+
+sudo systemctl is-enabled httpd
+
+sudo nano /var/www/html/index.html
+
+<!DOCTYPE html>
+<html>
+<body>
+<h1> Hello, World! </h1>
+<p> How are you doing? </p>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+Application LB 
+
+sudo yum update -y
+
+yum install httpd
+
+sudo systemctl enable httpd
+
+sudo systemctl is-enabled httpd
+
+sudo nano /var/www/html/index.html
+
+<!DOCTYPE html>
+<html>
+<body>
+<h1> Hello, World! </h1>
+<p> How are you doing? </p>
+</body>
+</html></html>l
